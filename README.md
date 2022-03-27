@@ -1,4 +1,3 @@
-# ionic-react_v6-side-tab-auth-starter
 # ionic react v6
 # Implemented :
   - Side menu
