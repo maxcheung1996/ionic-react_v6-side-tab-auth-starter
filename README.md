@@ -6,8 +6,9 @@ This is a clean version of ionic react v6 authentication app with Side&Tab menu 
   - Tab bar 
   - Authentication Login/Logout Page
 
-# please type this command to install package before start
+# please type these command to install package and build project before start
 npm install
+ionic build
 
 # then type this to start the app
 ionic serve
