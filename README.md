@@ -1,4 +1,6 @@
 # ionic react v6
+This is a clean version of ionic react v6 authentication app with Side&Tab menu implemented.
+
 # Implemented :
   - Side menu
   - Tab bar 
